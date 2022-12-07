@@ -5,11 +5,11 @@
     <hr>
     
      
-    <label for="Full Name"><b>Enter your Full Name</b></label>
+    <label for="Full Name"><b>please Enter your Full Name</b></label>
     <input type="text" placeholder="Enter  your FullName" name="Name" id="Name" required>
     <br>
     
-    <label for="mobile"><b>Enter your mobile number</b></label>
+    <label for="mobile"><b>please Enter your mobile number</b></label>
     <input type="text" placeholder="Enter moible number" name="mobile" id="mobile" required>
     <br>
 
