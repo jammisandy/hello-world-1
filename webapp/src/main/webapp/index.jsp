@@ -1,6 +1,6 @@
 <form action="action_page.php">
   <div class="container">
-    <h1>User Register for DevOps Learning</h1>
+    <h1>User Register for DevOps and AWS Learning</h1>
     <p>Please fill in this form to create an account.</p>
     <hr>
     
@@ -9,7 +9,7 @@
     <input type="text" placeholder="Enter  your FullName" name="Name" id="Name" required>
     <br>
     
-    <label for="mobile"><b>Enter your mobile</b></label>
+    <label for="mobile"><b>Enter your mobile number</b></label>
     <input type="text" placeholder="Enter moible number" name="mobile" id="mobile" required>
     <br>
 
